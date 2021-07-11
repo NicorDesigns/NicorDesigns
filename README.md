@@ -1,16 +1,41 @@
-### Hi there 👋
+### https://nicordesigns.tech/
+### https://www.linkedin.com/in/nicok/
 
-<!--
-**NicorDesigns/NicorDesigns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer
 
-Here are some ideas to get you started:
+Accomplished in the full life cycle of software design from requirements definition, prototyping, proof of concept through to implementation, testing, maintenance and system enhancements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Expertise
+
+Languages: 
+
+ Java 11, SQL, XML, JavaScript
+
+Frameworks:
+
+ Apache Camel, Spring Boot , JDBC, Mockito, Spring Security , Spring Data - JPA, Junit, Redis, RabbitMQ, ActiveMQ
+
+API's:
+
+ RAML, REST/Json, Eclipse SWT, JavaBeans, JSP, Servlets, EJB 2.1, Collections, JTA, JDBC, Eclipse Platform SDK
+
+Concepts:
+
+ OOA/OOD (UML, Design Patterns, Re-factoring), SOA, Micro Services, Unit Testing, Mock Objects, RUP, Agile, Scrum, TDD
+
+App. Servers:
+
+ Jboss AS, IBM Webshpere, Equinox OSGI, BEA Weblogic, Tomcat, OpenCMS
+
+Release Tools Docker, Maven, Bamboo, Subversion, Jira, Ant, CVS, Git, Rational Suite
+
+IDE’s :
+
+IntelliJ IDEA, Eclipse, Spring Tool Suite
+
+Databases Mongo DB, Oracle, MS SQL Server, MySQL
+
+OS:
+
+ Windows, Linux
+
