@@ -1,5 +1,3 @@
-#### https://www.linkedin.com/in/nicok/
-
 #### https://nicordesigns.tech/
 
 ### Senior Software Engineer
